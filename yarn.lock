@@ -430,9 +430,7 @@
     "@babel/plugin-syntax-numeric-separator" "^7.10.4"
 
 "@babel/plugin-proposal-object-rest-spread@^7.20.2", "@babel/plugin-proposal-object-rest-spread@^7.5.5":
-  version "7.20.2"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.20.2.tgz#a556f59d555f06961df1e572bb5eca864c84022d"
-  integrity sha512-Ks6uej9WFK+fvIMesSqbAto5dD8Dz4VuuFvGJFKgIGSkJuRGcrwGECPA1fDgQK3/DbExBJpEkTeYeB8geIFCSQ==
+  version "7.20.7"
   dependencies:
     "@babel/compat-data" "^7.20.1"
     "@babel/helper-compilation-targets" "^7.20.0"
@@ -886,9 +884,7 @@
     "@babel/helper-plugin-utils" "^7.18.6"
 
 "@babel/preset-env@^7.5.5":
-  version "7.20.2"
-  resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.20.2.tgz#9b1642aa47bb9f43a86f9630011780dab7f86506"
-  integrity sha512-1G0efQEWR1EHkKvKHqbG+IN/QdgwfByUpM5V5QroDzGV2t3S/WXNQd693cHiHTlCFMpr9B6FkPFXDA2lQcKoDg==
+  version "7.29.7"
   dependencies:
     "@babel/compat-data" "^7.20.1"
     "@babel/helper-compilation-targets" "^7.20.0"
@@ -978,9 +974,7 @@
     esutils "^2.0.2"
 
 "@babel/preset-react@^7.0.0":
-  version "7.18.6"
-  resolved "https://registry.yarnpkg.com/@babel/preset-react/-/preset-react-7.18.6.tgz#979f76d6277048dc19094c217b507f3ad517dd2d"
-  integrity sha512-zXr6atUmyYdiWRVLOZahakYmOBHtWc2WGCkP8PYTgZi0iJXDY2CN180TdrIW4OGOAdLc7TifzDIvtx6izaRIzg==
+  version "7.29.7"
   dependencies:
     "@babel/helper-plugin-utils" "^7.18.6"
     "@babel/helper-validator-option" "^7.18.6"
@@ -990,9 +984,7 @@
     "@babel/plugin-transform-react-pure-annotations" "^7.18.6"
 
 "@babel/register@^7.5.5":
-  version "7.18.9"
-  resolved "https://registry.yarnpkg.com/@babel/register/-/register-7.18.9.tgz#1888b24bc28d5cc41c412feb015e9ff6b96e439c"
-  integrity sha512-ZlbnXDcNYHMR25ITwwNKT88JiaukkdVj/nG7r3wnuXkOTHc60Uy05PwMCPre0hSkY68E6zK3xz+vUJSP2jWmcw==
+  version "7.29.7"
   dependencies:
     clone-deep "^4.0.1"
     find-cache-dir "^2.0.0"
